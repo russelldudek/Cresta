@@ -57,6 +57,7 @@ test('resume and cover letter preserve contact and reciprocal navigation', async
   }
 
   assert.equal((resume.match(/class=["'][^"']*resume-page/g) || []).length, 2);
+  assert.ok(resume.indexOf('Regional Director') < resume.indexOf('Résumé page 2 of 2'), 'page one should carry a complete fourth role module for visual balance');
   assert.match(resume, /View Cover Letter/);
   assert.match(cover, /View Resume/);
 });

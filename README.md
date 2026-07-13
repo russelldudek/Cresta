@@ -29,6 +29,10 @@ FORBIDDEN_PUBLIC_TERM="internal-label" npm run audit
 
 The PDF renderer uses a packaged headless Chromium runtime, so generation does not depend on a workstation browser installation. The site itself is static and requires no build step.
 
+## GitHub Pages handoff
+
+Pages administration could not be verified from the available execution surface. To publish the static site, open **Repository Settings → Pages**, choose **Deploy from a branch**, select **main** and **/ (root)**, then save. The target below remains unverified until that deployment is observed.
+
 ## Public links
 
 - [GitHub Pages target — deployment verification pending](https://russelldudek.github.io/Cresta/)
