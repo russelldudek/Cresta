@@ -1,0 +1,19 @@
+{
+  "name": "cresta-activation-boundary",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "pdfs": "node scripts/generate-pdfs.mjs",
+    "audit": "node scripts/audit-campaign.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "@sparticuz/chromium": "149.0.0",
+    "pdf-lib": "1.17.1",
+    "playwright": "1.61.1"
+  }
+}

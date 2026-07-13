@@ -1,0 +1,21 @@
+:root {
+  --cresta-wave: #205AE3;
+  --cresta-light-blue: #A8C5FF;
+  --cresta-deep-sea: #25252A;
+  --cresta-dusk: #3D3D47;
+  --cresta-cool-neutral: #F4F6F9;
+  --cresta-foam: #EBF0F5;
+  --cresta-white-blue: #EFF3FA;
+  --cresta-white: #FFFFFF;
+  --cresta-mist: #C1CACE;
+  --cresta-light-orange: #FCB56C;
+  --cresta-light-purple: #AE95DD;
+  --cresta-font-heading: "DM Sans", Arial, sans-serif;
+  --cresta-font-body: "Inter", Arial, sans-serif;
+  --cresta-font-mono: "DM Mono", ui-monospace, SFMono-Regular, Consolas, monospace;
+  --page-max: 76rem;
+  --radius-sm: 0.65rem;
+  --radius-md: 1.2rem;
+  --radius-lg: 2rem;
+  --shadow-soft: 0 1.25rem 3.75rem rgb(37 37 42 / 10%);
+}
