@@ -31,7 +31,7 @@ The PDF renderer uses a packaged headless Chromium runtime, so generation does n
 
 ## Public links
 
-- [Live candidate vision](https://russelldudek.github.io/Cresta/)
+- [GitHub Pages target — deployment verification pending](https://russelldudek.github.io/Cresta/)
 - [AI Deployment Manager job posting](https://job-boards.greenhouse.io/cresta/jobs/5078921008?gh_src=9a5432008us)
 - [Russell Dudek on LinkedIn](https://www.linkedin.com/in/russelldudek)
 
